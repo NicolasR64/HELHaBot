@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/NicolasR64/HELHaBot/issues"
   },
-  "homepage": "https://github.com/NicolasR64/HELHaBot#readme"
+  "homepage": "https://github.com/NicolasR64/HELHaBot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
 }
