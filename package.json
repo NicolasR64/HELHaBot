@@ -1,0 +1,24 @@
+{
+  "name": "helhabot",
+  "version": "0.0.1",
+  "description": "A management and helper bot for IT student in HELHA Montignies-sur-Sambre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasR64/HELHaBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "HELHa"
+  ],
+  "author": "Ravaux Nicolas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicolasR64/HELHaBot/issues"
+  },
+  "homepage": "https://github.com/NicolasR64/HELHaBot#readme"
+}
