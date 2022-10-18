@@ -1,7 +1,8 @@
 # HELHaBot
 
 A management and helper bot for IT student in HELHa Montignies-sur-Sambre.
-Updated and Maintained by the IT student of HELHa
+
+Updated and Maintained by the IT student of HELHa.
 
 Using some code template from [guidebot](https://github.com/AnIdiotsGuide/guidebot).
 Using some code template from [discord.js](https://discordjs.guide/#before-you-begin).
